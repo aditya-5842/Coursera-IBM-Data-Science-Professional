@@ -1,2 +1,2 @@
 # Coursera-IBM-Data-Science-Professional
-Assignments and Capstone Projects
+Assignments of 'Machine Learning in Pyhton' course
